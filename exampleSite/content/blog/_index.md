@@ -1,7 +1,6 @@
 ---
-title: "Our stories"
-subtitle: ""
-# meta description
-description: "Stories worth reading"
-draft: false
+title: 'So, whats new? '
+subtitle: ''
+description: Stories worth reading
+
 ---
